@@ -1,0 +1,10 @@
+E:\naseer_proj\sms\smsmain\smsmain\bin\Debug\smsmain.exe.config
+E:\naseer_proj\sms\smsmain\smsmain\bin\Debug\smsmain.exe
+E:\naseer_proj\sms\smsmain\smsmain\bin\Debug\smsmain.pdb
+E:\naseer_proj\sms\smsmain\smsmain\obj\Debug\smsmain.csprojResolveAssemblyReference.cache
+E:\naseer_proj\sms\smsmain\smsmain\obj\Debug\smsmain.exe
+E:\naseer_proj\sms\smsmain\smsmain\obj\Debug\smsmain.pdb
+E:\naseer_proj\sms\smsmain\smsmain\bin\Debug\smsmain.exe.manifest
+E:\naseer_proj\sms\smsmain\smsmain\bin\Debug\smsmain.application
+E:\naseer_proj\sms\smsmain\smsmain\obj\Debug\smsmain.exe.manifest
+E:\naseer_proj\sms\smsmain\smsmain\obj\Debug\smsmain.application

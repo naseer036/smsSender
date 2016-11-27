@@ -1,0 +1,16 @@
+E:\naseer_proj\sms\sms\sms\bin\Debug\sms.exe.config
+E:\naseer_proj\sms\sms\sms\bin\Debug\sms.exe
+E:\naseer_proj\sms\sms\sms\bin\Debug\sms.pdb
+E:\naseer_proj\sms\sms\sms\obj\Debug\sms.csprojResolveAssemblyReference.cache
+E:\naseer_proj\sms\sms\sms\obj\Debug\sms.Form1.resources
+E:\naseer_proj\sms\sms\sms\obj\Debug\sms.Properties.Resources.resources
+E:\naseer_proj\sms\sms\sms\obj\Debug\sms.csproj.GenerateResource.Cache
+E:\naseer_proj\sms\sms\sms\obj\Debug\sms.exe
+E:\naseer_proj\sms\sms\sms\obj\Debug\sms.pdb
+E:\naseer_proj\sms\sms\sms\obj\Debug\sms.CheckSchedule.resources
+E:\naseer_proj\sms\sms\sms\obj\Debug\sms.DeliverSms.resources
+E:\naseer_proj\sms\sms\sms\obj\Debug\sms.ScheduleSms.resources
+E:\naseer_proj\sms\sms\sms\obj\Debug\sms.CustomerDetails.resources
+E:\naseer_proj\sms\sms\sms\obj\Debug\Interop.TaskScheduler.dll
+E:\naseer_proj\sms\sms\sms\obj\Debug\sms.csproj.ResolveComReference.cache
+E:\naseer_proj\sms\sms\sms\bin\Debug\Interop.TaskScheduler.dll
